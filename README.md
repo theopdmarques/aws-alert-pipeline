@@ -34,16 +34,15 @@ EC2 Instance → CloudWatch Logs → Lambda → S3 + SNS → Email Alert
 - Logs demonstrate awareness of monitoring & alerting best practices.
 
 **Skills Demonstrated**
+- Cloud monitoring and logging (AWS CloudWatch)
 
-Cloud monitoring and logging (AWS CloudWatch)
+- Event Serverless processing (AWS Lambda)
 
-Event Serverless processing (AWS Lambda)
+- Alerting and notification systems (SNS)
 
-Alerting and notification systems (SNS)
+- Secure log storage (S3)
 
-Secure log storage (S3)
-
-Practical application of security monitoring & incident response concepts
+- Practical application of security monitoring & incident response concepts
 
 **Contact**
 
